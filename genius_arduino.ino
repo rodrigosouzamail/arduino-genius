@@ -44,6 +44,7 @@ void loop() {
 }
 
 /************************* Funções **************************/
+/*Teste de alteração github*/
 
 void proximaRodada() {
   randomSeed(analogRead(A0));
